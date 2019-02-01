@@ -3,4 +3,4 @@
 
 Highly abridged contest prompt: Optimize ambulance parking/deployment locations in Ithaca, NY for fast response and arrival at scene. 
 
-This participation was my first in a mathematical modeling contest. Submissions were expected 3 days after the prompt's public release. We received positive feedback but our paper was not awarded, like those in the elusive top 3. :cry:
+This participation was my first in a mathematical modeling contest. Submissions were expected 3 days after the prompt's public release. We received positive feedback but our paper was not awarded, like those in the top 3.
